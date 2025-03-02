@@ -1,29 +1,32 @@
-# Gus Vega Automation  
-**Terraform & CI/CD GitHub Actions for DevOps Teams**  
+# Gus Vega
+## Terraform & CI/CD GitHub Actions for DevOps Teams
 
-Gus Vega Automation specializes in **Terraform, GitHub Actions, and CI/CD automation** to help teams scale cloud infrastructure effortlessly.
+I specialize in **Terraform, GitHub Actions, and CI/CD automation**, helping DevOps teams scale cloud infrastructure effortlessly. My goal is to build high-quality automation tools that streamline deployments and make DevOps workflows faster and more reliable.
 
-##  Projects  
+## Projects
+### Terraform GitHub Actions
+- **terraform-plan-action** – Automate `terraform init` & `terraform plan` in CI/CD pipelines.  
+- **terraform-apply-action (Coming Soon)** – Automate `terraform apply`, `terraform destroy`, and state management.  
 
-### **Terraform GitHub Actions**  
--  **[terraform-plan-action](https://github.com/gusvega-dev/terraform-plan-action)** - Automate `terraform init` & `terraform plan` in CI/CD pipelines.  
--  **[terraform-apply-action](https://github.com/gusvega-dev/terraform-apply-action)** *(Coming Soon)* - Automate `terraform apply`, `terraform destroy`, and state management.
+### CI/CD Pipelines & Templates (Coming Soon)
+- **GitHub Actions Pipelines** for Multi-Cloud Deployments.  
+- **Prebuilt Terraform CI/CD Templates** to accelerate automation.  
+- **Customizable DevOps Workflow Automation** for enterprises.  
 
-### **CI/CD Pipelines & Templates** *(Coming Soon)*
--  **GitHub Actions Pipelines for Multi-Cloud Deployments**
--  **Prebuilt Terraform CI/CD Templates**
--  **Customizable DevOps Workflow Automation**
+## GitHub Marketplace
+Find my GitHub Actions & Templates on the [GitHub Marketplace](https://github.com/marketplace/)
 
-##  GitHub Marketplace  
-Find my GitHub Actions & Templates on the **[GitHub Marketplace](https://github.com/marketplace?query=gusvega)**  
+---
 
-##  About Gus Vega  
-I am a **Senior DevOps Engineer** specializing in **Terraform, GitHub Actions, and Cloud Automation**.  
-For more details, visit **[gusvega.dev](https://gusvega.dev)**.  
+## About Me
+I’m a **Senior DevOps Engineer** passionate about **Terraform, GitHub Actions, and Cloud Automation**. I build automation tools that make DevOps simpler, faster, and more efficient.
 
-##  Get in Touch  
+More at: [gusvega.dev](https://gusvega.dev)
+
+---
+
+## Get in Touch
 - **Website:** [gusvega.dev](https://gusvega.dev)  
-- **LinkedIn:** [linkedin.com/in/gusvega](https://www.linkedin.com/in/gusvega/)  
-- **GitHub Profile:** [github.com/gusvega](https://github.com/gusvega)  
-- **Email:** hola@gusvega.dev  
-
+- **LinkedIn:** [linkedin.com/in/gusvega](https://linkedin.com/in/gusvega)  
+- **GitHub:** [github.com/gusvega](https://github.com/gusvega)  
+- **Email:** [hola@gusvega.dev](mailto:hola@gusvega.dev)  
