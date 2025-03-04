@@ -16,7 +16,7 @@ Helping DevOps teams scale cloud infrastructure effortlessly. My goal is to buil
 - **Customizable DevOps Workflow Automation** for enterprises.  
 
 ## GitHub Marketplace
-Find my GitHub Actions & Templates on the [GitHub Marketplace](https://github.com/marketplace?query=gus+vega)
+Find my GitHub Actions & Templates on the [GitHub Marketplace](https://github.com/marketplace?query=gus+vega/)
 
 ---
 
