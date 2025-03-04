@@ -1,7 +1,10 @@
 # Gus Vega
+
+**Senior DevOps Engineer specialized in Cloud Infrastructure Automation**
+
 ## Terraform & CI/CD GitHub Actions for DevOps Teams
 
-I specialize in **Terraform, GitHub Actions, and CI/CD automation**, helping DevOps teams scale cloud infrastructure effortlessly. My goal is to build high-quality automation tools that streamline deployments and make DevOps workflows faster and more reliable.
+Helping DevOps teams scale cloud infrastructure effortlessly. My goal is to build high-quality automation tools that streamline deployments and make DevOps workflows faster and more reliable.
 
 ## Projects
 ### Terraform GitHub Actions
