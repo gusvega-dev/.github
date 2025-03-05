@@ -7,8 +7,9 @@ Helping DevOps teams scale cloud infrastructure effortlessly. My goal is to buil
 
 ## Projects
 ### Terraform GitHub Actions
-- **terraform-plan-action** – Automate `terraform init` & `terraform plan` in CI/CD pipelines.  
-- **terraform-apply-action (Coming Soon)** – Automate `terraform apply`, `terraform destroy`, and state management.  
+- **terraform-plan-gcp-action** – Automate `terraform init` & `terraform plan` in CI/CD pipelines.  
+- **terraform-apply-gcp-action (Coming Soon)** – Automate `terraform apply`, `terraform destroy`, and state management.
+- **More to come!**
 
 ### CI/CD Pipelines & Templates (Coming Soon)
 - **GitHub Actions Pipelines** for Multi-Cloud Deployments.  
