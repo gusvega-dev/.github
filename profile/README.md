@@ -1,13 +1,20 @@
 # Hi, I'm Gus Vega!  
-**Senior DevOps Engineer specialized in Cloud Infrastructure Automation**
+**Senior DevOps Engineer specializing in Cloud Infrastructure Automation with expertise in Google Cloud Platform (GCP), Terraform, and GitHub Actions.**
 
-## Building Terraform & CI/CD GitHub Actions for DevOps Teams
+## About Me
+I build automation tools that make DevOps simpler, faster, and more efficient.
 
-Helping DevOps teams scale cloud infrastructure effortlessly. My goal is to build high-quality automation tools that streamline deployments and make DevOps workflows faster and more reliable.
+More at: [gusvega.dev](https://gusvega.dev)
+
+---
+
+## I am Building Terraform & CI/CD GitHub Actions for DevOps Teams using GCP
+
+My goal is to build high-quality automation tools that streamline deployments and make DevOps workflows faster and more reliable.
 
 ## Projects
 ### Terraform GitHub Future Actions
-As part of a broader Terraform automation suite, additional actions will be developed, including:
+As part of a broader Terraform automation suite for GCP, additional actions will be developed, including:
 
 ### **Infrastructure Provisioning & Deployment**
 - Terraform Lint & Format
@@ -43,14 +50,7 @@ As part of a broader Terraform automation suite, additional actions will be deve
 Stay tuned for updates as these become available.
 
 ## GitHub Marketplace
-Find my GitHub Actions & Templates on the [GitHub Marketplace](https://github.com/marketplace?query=gus+vega)
-
----
-
-## About Me
-I’m a **Senior DevOps Engineer** passionate about **Terraform, GitHub Actions, and Cloud Automation**. I build automation tools that make DevOps simpler, faster, and more efficient.
-
-More at: [gusvega.dev](https://gusvega.dev)
+Find my GitHub GCP Actions on the [GitHub Marketplace](https://github.com/marketplace?query=gus+vega)
 
 ---
 
