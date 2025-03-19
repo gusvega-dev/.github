@@ -6,15 +6,41 @@
 Helping DevOps teams scale cloud infrastructure effortlessly. My goal is to build high-quality automation tools that streamline deployments and make DevOps workflows faster and more reliable.
 
 ## Projects
-### Terraform GitHub Actions
-- **terraform-plan-gcp-action** – Automate `terraform init` & `terraform plan` in CI/CD pipelines.  
-- **terraform-apply-gcp-action (Coming Soon)** – Automate `terraform apply`, `terraform destroy`, and state management.
-- **More to come!**
+### Terraform GitHub Future Actions
+As part of a broader Terraform automation suite, additional actions will be developed, including:
 
-### CI/CD Pipelines & Templates (Coming Soon)
-- **GitHub Actions Pipelines** for Multi-Cloud Deployments.  
-- **Prebuilt Terraform CI/CD Templates** to accelerate automation.  
-- **Customizable DevOps Workflow Automation** for enterprises.  
+### **Infrastructure Provisioning & Deployment**
+- Terraform Lint & Format
+- Security Scan
+- Cost Estimation
+- [ Plan Validation ](https://github.com/marketplace/actions/terraform-plan-gcp-action)
+- Apply Execution
+- State Backup
+- Post-Deployment Tests
+- Change Management Logging
+
+### **Drift Detection & Auto-Remediation**
+- Drift Detection
+- Auto-Remediation
+- Compliance Check
+- Manual Approval for Remediation
+
+### **CI/CD for Multi-Environment Deployments**
+- Validate Changes
+- Deploy to Dev
+- Integration Tests
+- Manual Approval for Staging
+- Deploy to Staging
+- Security Scan Before Prod
+- Deploy to Production
+
+### **Secret Management & Security Enforcement**
+- Secrets Detection
+- Secrets Rotation
+- IAM Policy Review
+- Dynamic Secrets Management
+
+Stay tuned for updates as these become available.
 
 ## GitHub Marketplace
 Find my GitHub Actions & Templates on the [GitHub Marketplace](https://github.com/marketplace?query=gus+vega)
