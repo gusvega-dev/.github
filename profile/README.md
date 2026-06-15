@@ -1,62 +1,85 @@
-# Hi, I'm Gus Vega!  
-**Senior DevOps Engineer specializing in Cloud Infrastructure Automation with expertise in Google Cloud Platform (GCP), Terraform, and GitHub Actions.**
+# gusvega-dev
 
-## About Me
-I build automation tools that make DevOps simpler, faster, and more efficient.
+**GitHub-native platform engineering, cloud automation, and AI-assisted engineering systems.**
 
-More at: [gusvega.dev](https://gusvega.dev)
+`gusvega-dev` is the engineering workspace behind platform tools that help teams standardize infrastructure delivery, automate repository setup, and ship cloud systems with stronger governance.
 
----
+## What We Build
 
-## I am Building Terraform & CI/CD GitHub Actions for DevOps Teams using GCP
+- GitHub-native platform engineering products
+- Infrastructure governance and repository onboarding workflows
+- Terraform automation for Google Cloud Platform
+- CI/CD standards using GitHub Actions
+- Reusable delivery patterns for multi-environment cloud deployments
+- AI-assisted engineering operations and workflow generation
 
-My goal is to build high-quality automation tools that streamline deployments and make DevOps workflows faster and more reliable.
+## Featured Platform Product
 
-## Projects
-### Terraform GitHub Future Actions
-As part of a broader Terraform automation suite for GCP, additional actions will be developed, including:
+### [GuxOps](https://guxops.gusvega.dev)
 
-### **Infrastructure Provisioning & Deployment**
-- Terraform Lint & Format
-- Security Scan
-- Cost Estimation
-- [ Plan Validation ](https://github.com/marketplace/actions/terraform-plan-gcp-action)
-- [ Apply Execution ](https://github.com/marketplace/actions/terraform-apply-gcp-action)
-- [ Plan + Apply ](https://github.com/marketplace/actions/terraform-plan-and-apply-gcp-action)
-- State Backup
-- Post-Deployment Tests
-- Change Management Logging
+GuxOps is a GitHub-native platform engineering product that automates repository onboarding, infrastructure governance, CI/CD standards, workflow generation, and AI-assisted engineering operations.
 
-### **Drift Detection & Auto-Remediation**
-- Drift Detection
-- Auto-Remediation
-- Compliance Check
-- Manual Approval for Remediation
+It is designed to turn GitHub repositories into governed delivery platforms with:
 
-### **CI/CD for Multi-Environment Deployments**
-- Validate Changes
-- Deploy to Dev
-- Integration Tests
-- Manual Approval for Staging
-- Deploy to Staging
-- Security Scan Before Prod
-- Deploy to Production
+- Setup PR generation
+- Terraform validation
+- GitHub Actions workflow standards
+- Environment and promotion patterns
+- Branch protection and repository configuration
+- Infrastructure risk analysis
+- Runtime visibility
+- Cost-safe teardown workflows
 
-### **Secret Management & Security Enforcement**
-- Secrets Detection
-- Secrets Rotation
-- IAM Policy Review
-- Dynamic Secrets Management
+## GitHub Actions for Terraform on GCP
 
-Stay tuned for updates as these become available.
+| Action | Purpose |
+| --- | --- |
+| [Terraform Plan GCP Action](https://github.com/marketplace/actions/terraform-plan-gcp-action) | Run Terraform plan workflows for Google Cloud with structured automation patterns |
+| [Terraform Apply GCP Action](https://github.com/marketplace/actions/terraform-apply-gcp-action) | Run Terraform apply workflows with approval-friendly delivery signals |
+| [Terraform Plan and Apply GCP Action](https://github.com/marketplace/actions/terraform-plan-and-apply-gcp-action) | Combine plan and apply into one repeatable infrastructure delivery flow |
 
-## GitHub Marketplace
-Find my GitHub GCP Actions on the [GitHub Marketplace](https://github.com/marketplace?query=gus+vega)
+## Platform Capabilities
 
----
+**Repository Onboarding**
 
-## Get in Touch
-- **Website:** [gusvega.dev](https://gusvega.dev)  
-- **LinkedIn:** [linkedin.com/in/gusvega](https://linkedin.com/in/gusvega)  
-- **GitHub:** [github.com/gusvega](https://github.com/gusvega)  
-- **Email:** [hola@gusvega.dev](mailto:hola@gusvega.dev)  
+- Standard repository setup
+- Starter workflows
+- Branch protection patterns
+- Environment configuration
+- Actions variables and secrets strategy
+
+**Infrastructure Governance**
+
+- Terraform validation
+- Policy-aware delivery
+- Approval gates
+- Audit-friendly workflow logs
+- Drift and risk visibility
+
+**Cloud Delivery**
+
+- Google Cloud Platform
+- Kubernetes and GKE patterns
+- Helm deployment workflows
+- Workload identity patterns
+- Multi-environment promotion flows
+
+**AI-Assisted Engineering**
+
+- Workflow generation
+- Pull request analysis
+- Infrastructure risk summaries
+- Developer enablement tooling
+- Repeatable platform automation
+
+## Related Sites
+
+- [gusvega.dev](https://gusvega.dev) - Gus Vega's platform engineering profile
+- [guxops.gusvega.dev](https://guxops.gusvega.dev) - GuxOps product
+- [ui.gusvega.dev](https://ui.gusvega.dev) - GUS UI component system
+- [playbook.gusvega.dev](https://playbook.gusvega.dev) - Delivery and platform playbooks
+- [3d.gusvega.dev](https://3d.gusvega.dev) - Interactive 3D web experiment
+
+## Maintainer
+
+Built and maintained by [Gus Vega](https://github.com/gusvega).
